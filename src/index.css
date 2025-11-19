@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+:root {
+  --bg-1: #74ebd5;
+  --bg-2: #ACB6E5;
+}
+
+/* 🌈 Full height & no scroll gaps */
+html, body, #root {
+  height: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Background gradient globally */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(120deg, var(--bg-1), var(--bg-2));
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Force #root to stretch fully (fixes strip issue) */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ✅ Footer always stays at bottom, no colored strip */
+footer {
+  margin-top: auto;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+/* 🌈 Floating gradient blob animation */
+@keyframes blob {
+  0% {
+    transform: translate(0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+  100% {
+    transform: translate(0px, 0px) scale(1);
+  }
+}
+
+.animate-blob {
+  animation: blob 10s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
