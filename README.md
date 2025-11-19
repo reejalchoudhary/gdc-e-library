@@ -1,24 +1,72 @@
-# Smart E-Library (Frontend-only Demo)
+<div align="center">
+<img src="https://img.shields.io/badge/GDC%20Nagrota%20Surian-E--Library-6A5ACD?style=for-the-badge&logo=react&logoColor=white" height="45"/> </div> <h2 align="center">📚 E-Library Platform of Government Degree College, Nagrota Surian — actively under development🧑‍💻.</h2> 
+<img src="https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?style=for-the-badge&logo=tailwindcss" /> <img src="https://img.shields.io/badge/Framer_Motion-Animations-ff77ff?style=for-the-badge&logo=framer" /> <img src="https://img.shields.io/badge/LocalStorage-Powered-yellow?style=for-the-badge&logo=googlechrome" /> 
+ <img src="https://img.shields.io/badge/React_Router_DOM-Routing-red?style=for-the-badge&logo=reactrouter&logoColor=fff" />
+<img src="https://img.shields.io/badge/Lucide_Icons-UI_Icons-blueviolet?style=for-the-badge&logo=lucide&logoColor=fff" />
 
-This is a ready-to-run **React + Vite** frontend project for the Smart E-Library (demo).
-Features:
-- Books list with search
-- Upload form (frontend demo only)
-- PYQs list
-- Discussion group (saved to localStorage for demo persistence)
-- Tailwind CSS + Framer Motion for animations
+---
+# 🌐 For Live Preview:- N/A
+# 🚀 About the Project :-
+### The GDC Nagrota Surian E-Library is a beautifully animated, highly responsive frontend-based digital library (no backend yet) built for students & faculty. It includes:
 
-## To run locally
+- 📘 Books
 
-1. Extract the zip.
-2. Open terminal in project folder.
-3. Run:
-   ```
+- 📝 Notes
+- 🧾 Previous Year Question Papers (PYQs)
+- ⬆️ Upload Section (Students can upload study material too)
+- 🧑‍🎓 Student Login
+- 🛡 Admin Login & Management
+- 💬 Discussion Forum
+---
+# 💡 Features:- 
+- Fully Frontend & Offline-Ready.
+- Discussion Section.
+
+- Admin Management Tools.
+- Role-Based Login System.
+- Clean and Modern Interface.
+- Mobile-Friendly & Responsive.
+
+---
+# 📸Screenshots:- N/A
+---
+# 🔧⚙️ Setup Instructions:-
+
+1) Install Dependencies:-
+
+ ```
    npm install
-   npm run dev
    ```
-4. Open the local dev server link (usually http://localhost:5173).
+2) Run Development Server:-
+ ```
+   npm run dev
+  ```
+3) Open the local dev server link usually.
+```
+  http://localhost:5173
+```
+---
+# ✨Upcoming Features:-
+- Complete Backend Integration
 
-> Note: This is a frontend-only demo. Uploads/downloads are placeholders. To persist data you can add a backend later.
+- Dark Mode / Light Mode Toggle
+- Noticeboard Module
+- Department Wise Dashboards
+---
+# 📲Follow me on:-
+<p align="left">
+<a href="https://dev.to/reejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/reejalchoudhary" height="30" width="40" /></a>
+<a href="https://twitter.com/choudharyreejal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/choudharyreejal" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/reejal-choudhary-532386237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/reejal-choudhary-532386237" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/reejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/reejalchoudhary" height="30" width="40" /></a>
+<a href="https://instagram.com/reejalhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/reejalhere" height="30" width="40" /></a>
+<a href="https://www.behance.net/reejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/reejalchoudhary" height="30" width="40" /></a>
 
-Built by Reejal Choudhary — prepared as a deliverable for National Innovation Day.
+---
+# 📡 Contact Me:-
+- Email📧: reejalree@gmail.com
+- Mobile📞: 7018361108
+---
+> This project is fully frontend-based and all data (uploads, notes, books, PYQs, user info) is stored using the browser’s LocalStorage & SessionStorage, no backend or server required.
+
+> A full backend system (database + authentication + cloud storage) is under development and will be integrated soon to make the platform more powerful and scalable.
