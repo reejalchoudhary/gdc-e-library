@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/GDC%20Nagrota%20Surian-E--Library-6A5ACD?style=for-the-badge&logo=react&logoColor=white" height="45"/> </div> <h2 align="center">📚 E-Library Platform of Government Degree College, Nagrota Surian — actively under development🧑‍💻.</h2> 
+<img src="https://img.shields.io/badge/GDC%20Nagrota%20Surian-E--Library-6A5ACD?style=for-the-badge&logo=react&logoColor=white" height="75"/> </div> <h2 align="center">📚 E-Library Platform of Government Degree College, Nagrota Surian — actively under development🧑‍💻.</h2> 
 <img src="https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?style=for-the-badge&logo=tailwindcss" /> <img src="https://img.shields.io/badge/Framer_Motion-Animations-ff77ff?style=for-the-badge&logo=framer" /> <img src="https://img.shields.io/badge/LocalStorage-Powered-yellow?style=for-the-badge&logo=googlechrome" /> 
  <img src="https://img.shields.io/badge/React_Router_DOM-Routing-red?style=for-the-badge&logo=reactrouter&logoColor=fff" />
 <img src="https://img.shields.io/badge/Lucide_Icons-UI_Icons-blueviolet?style=for-the-badge&logo=lucide&logoColor=fff" />
