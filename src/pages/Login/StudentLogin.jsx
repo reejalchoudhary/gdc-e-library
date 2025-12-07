@@ -95,7 +95,7 @@ export default function StudentLogin({ onLogin }) {
             <input
               type="email"
               className="w-full px-4 py-2 border border-white/30 rounded-lg bg-white/20 text-white placeholder-white/70 focus:ring-2 focus:ring-purple-400 outline-none transition-all"
-              placeholder="student@gdcnagrota.edu.in"
+              placeholder="abc@gmail.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />

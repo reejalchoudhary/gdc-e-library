@@ -9,7 +9,7 @@
   --bg-2: #ACB6E5;
 }
 
-/* 🌈 Full height & no scroll gaps */
+
 html, body, #root {
   height: 100%;
   min-height: 100vh;
@@ -17,7 +17,7 @@ html, body, #root {
   padding: 0;
 }
 
-/* Background gradient globally */
+
 body {
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(120deg, var(--bg-1), var(--bg-2));
@@ -29,14 +29,14 @@ body {
   flex-direction: column;
 }
 
-/* Force #root to stretch fully (fixes strip issue) */
+
 #root {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-/* ✅ Footer always stays at bottom, no colored strip */
+
 footer {
   margin-top: auto;
   background: linear-gradient(to right, #6a11cb, #2575fc);
@@ -48,7 +48,7 @@ footer {
   bottom: 0;
 }
 
-/* 🌈 Floating gradient blob animation */
+
 @keyframes blob {
   0% {
     transform: translate(0px, 0px) scale(1);

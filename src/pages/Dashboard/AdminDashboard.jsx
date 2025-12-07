@@ -13,7 +13,7 @@ export default function AdminDashboard() {
         className="bg-white bg-opacity-10 backdrop-blur-lg shadow-2xl rounded-2xl p-10 w-full max-w-4xl"
       >
         <h1 className="text-4xl font-bold text-center mb-6 text-yellow-300">
-          🧑‍💼 Admin Dashboard
+           Admin Dashboard
         </h1>
         <p className="text-center text-gray-200 mb-10">
           Welcome to the{" "}

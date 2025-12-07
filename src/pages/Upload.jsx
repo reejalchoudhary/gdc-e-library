@@ -155,7 +155,7 @@ export default function Upload() {
           />
         ))}
 
-        <div className="absolute inset-0 bg-black/20 backdrop-blur-sm" />
+        <div className="absolute inset-0 bg-black/20" />
       </div>
       <div className="fixed top-6 right-6 z-50 space-y-3">
         <AnimatePresence>

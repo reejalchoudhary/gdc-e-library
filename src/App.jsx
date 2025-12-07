@@ -22,7 +22,6 @@ import AdminDashboard from "./pages/Dashboard/AdminDashboard";
 import LoginSelector from "./pages/Login/LoginSelector";
 import Notes from "./pages/Notes";
 
-// Import Admin Management Pages
 import ManageNotes from "./pages/Admin/ManageNotes";
 import ManageBooks from "./pages/Admin/ManageBooks";
 import ManagePYQs from "./pages/Admin/ManagePYQs";
@@ -59,7 +58,7 @@ export default function App() {
 
         <main className="flex-grow">
           <Routes>
-            {/* 🔁 Redirects */}
+            
             <Route
               path="/"
               element={<RedirectLogic isLoggedIn={isLoggedIn} role={role} />}
@@ -87,7 +86,7 @@ export default function App() {
             <Route path="/notes" element={<Notes />} />
             <Route path="/discussion" element={<Discussion />} />
 
-            {/* 🧑‍💼 Admin Management Routes */}
+            
             <Route path="/admin/manage-notes" element={<ManageNotes />} />
             <Route path="/admin/manage-books" element={<ManageBooks />} />
             <Route path="/admin/manage-pyqs" element={<ManagePYQs />} />
@@ -103,7 +102,6 @@ export default function App() {
   );
 }
 
-// Redirect logic
 function RedirectLogic({ isLoggedIn, role }) {
   const navigate = useNavigate();
 
