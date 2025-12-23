@@ -40,12 +40,11 @@
    ```
    cd college-e-library
    ```
-             OR
+                 OR
 
-   Download the ZIP:-
-```
+   Download the ZIP:- 
    Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
-  ```
+  
 
 1) Install Dependencies:-
 
@@ -68,6 +67,33 @@
 - Noticeboard Module
 - Department Wise Dashboards
 --- -->
+# 🧭 How to Use the Platform
+
+### 1️⃣ Student Login / Registration
+- Open the website and go to **Student Login**
+- Register as a new student and submit your details
+- Your account will remain **pending** until approved by the admin
+
+### 2️⃣ Admin Approval
+- Go to **Admin Login**
+- Login using the default admin credentials:
+
+  **Username:** `admin`  
+  **Password:** `admin123`
+
+- Open the **Admin Dashboard**
+- Approve the student registration request
+
+### 3️⃣ Access the Platform
+- After approval, return to **Student Login**
+- Login with your registered credentials
+- You will now have full access to:
+  - 📘 Books
+  - 📝 Notes
+  - 🧾 PYQs
+  - ⬆️ Upload Section
+  - 💬 Discussion Forum
+
 # 📲Follow me on:-
 <p align="left">
 <a href="https://dev.to/reejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/reejalchoudhary" height="30" width="40" /></a>
