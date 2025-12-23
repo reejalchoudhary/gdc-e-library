@@ -44,7 +44,7 @@
     cd college-e-library
    ```
 
-       • Download the ZIP:- Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
+ • Download the ZIP:- Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
 
   
 
