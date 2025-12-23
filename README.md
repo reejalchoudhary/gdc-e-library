@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Lucide_Icons-UI_Icons-blueviolet?style=for-the-badge&logo=lucide&logoColor=fff" />
 
 ---
-# 🌐 For Live Preview:- https://gcns-elibrary.netlify.app/login-selector
+# 🌐 For Live Preview:- [🔥Click Before Exams](https://gcns-elibrary.netlify.app)
 ---
 # 🚀 About the Project :-
 ### The GDC Nagrota Surian E-Library is a beautifully animated, highly responsive frontend-based digital library built for students & faculty. It includes:
@@ -44,7 +44,7 @@
     cd college-e-library
    ```
 
- • Download the ZIP:- Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
+  • OR Download the ZIP:- Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
 
   
 
@@ -69,7 +69,7 @@
 - Noticeboard Module
 - Department Wise Dashboards
 --- -->
-# 🧭 How to Use the Platform
+# 🧭 How to Use the Platform :-
 
 ### 1️⃣ Student Login / Registration
 - Open the website and go to **Student Login**
