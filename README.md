@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://img.shields.io/badge/GDC%20Nagrota%20Surian-E--Library-6A5ACD?style=for-the-badge&logo=react&logoColor=white" height="75"/> </div> <h2 align="center">📚 E-Library Platform of Government Degree College, Nagrota Surian — actively under development🧑‍💻.</h2> 
+<img src="https://img.shields.io/badge/GDC%20Nagrota%20Surian-E--Library-6A5ACD?style=for-the-badge&logo=react&logoColor=white" height="75"/> </div> <h2 align="center">📚 E-Library Platform of Government Degree College, Nagrota Surian -🧩 Frontend Only.</h2> 
 <img src="https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?style=for-the-badge&logo=tailwindcss" /> <img src="https://img.shields.io/badge/Framer_Motion-Animations-ff77ff?style=for-the-badge&logo=framer" /> <img src="https://img.shields.io/badge/LocalStorage-Powered-yellow?style=for-the-badge&logo=googlechrome" /> 
  <img src="https://img.shields.io/badge/React_Router_DOM-Routing-red?style=for-the-badge&logo=reactrouter&logoColor=fff" />
 <img src="https://img.shields.io/badge/Lucide_Icons-UI_Icons-blueviolet?style=for-the-badge&logo=lucide&logoColor=fff" />
 
 ---
-# 🌐 For Live Preview:- Updating soon...
+# 🌐 For Live Preview:- https://gcns-elibrary.netlify.app/login-selector
 ---
 # 🚀 About the Project :-
-### The GDC Nagrota Surian E-Library is a beautifully animated, highly responsive frontend-based digital library (no backend yet) built for students & faculty. It includes:
+### The GDC Nagrota Surian E-Library is a beautifully animated, highly responsive frontend-based digital library built for students & faculty. It includes:
 
 - 📘 Books
 
@@ -33,6 +33,20 @@
 ---
 # 🔧⚙️ Setup Instructions:-
 
+0) Clone the repository:-
+   ```
+   git clone https://github.com/reejalchoudhary/college-e-library.git  
+   ```
+   ```
+   cd college-e-library
+   ```
+             OR
+
+   Download the ZIP:-
+```
+   Click on **Code → Download ZIP**, then extract the folder and open it in your code editor.
+  ```
+
 1) Install Dependencies:-
 
  ```
@@ -42,18 +56,18 @@
  ```
    npm run dev
   ```
-3) Open the local dev server link usually.
+3) Open the local dev server link usually at.
 ```
   http://localhost:5173
 ```
 ---
-# ✨Upcoming Features:-
+<!-- # ✨Upcoming Features:-
 - Complete Backend Integration
 
 - Dark Mode / Light Mode Toggle
 - Noticeboard Module
 - Department Wise Dashboards
----
+--- -->
 # 📲Follow me on:-
 <p align="left">
 <a href="https://dev.to/reejalchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/reejalchoudhary" height="30" width="40" /></a>
@@ -68,6 +82,7 @@
 - Email📧: reejalree@gmail.com
 - Mobile📞: 7018361108
 ---
-> This project is fully frontend-based and all data (uploads, notes, books, PYQs, user info) is stored using the browser’s LocalStorage & SessionStorage, no backend or server required.
+> This project is fully frontend-based and all data (uploads, notes, books, PYQs, user info) is stored using the browser’s LocalStorage & SessionStorage.
 
-> A full backend system (database + authentication + cloud storage) is under development and will be integrated soon to make the platform more powerful and scalable.
+> This repository includes **only the frontend** of the project.  
+The **entire full-stack version is already deployed and operational** and is maintained separately.
